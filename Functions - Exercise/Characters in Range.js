@@ -10,8 +10,8 @@ function charactersInRange(firstChar,lastChar){
 
     console.log(result);
 }
-charactersInRange('a',
-'d'
+charactersInRange(':',
+'#'
 
 
 );
